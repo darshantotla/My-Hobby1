@@ -1,0 +1,14 @@
+body{
+text-align: center;
+background-color: lime;
+background-repeat: no-repeat;
+}
+h1{
+text-shadow: 2px 2px cyan;
+font-size: 20px;
+}
+#about{
+text-align: center;
+padding: 20px;
+font-size: 18px;
+}
